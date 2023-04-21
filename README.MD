@@ -21,4 +21,4 @@ docker run -d --name ai -p 8383:8383 me/ai-image:v1
 ```
 
 
-前端项目：[chatai-vue](https://gitee.com/MIEAPP/chatai-vue)
+前端项目：[chatai-vue](https://github.com/liufang-star/ai-web)
