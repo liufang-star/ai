@@ -27,16 +27,15 @@ app = Flask(__name__)
 load_dotenv()
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 # openai.api_key = "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"
-COMPLETIONS_MODEL = "text-embedding-ada-002"
-TEXT = "davinci"
-openai.api_type = "azure"
-openai.api_key = "2e3bc8a0624246b9b5a679f11b5ce5cb"
-openai.api_base = "https://apac-openai-service-eus.openai.azure.com/"
-openai.api_version = "2022-12-01"
+COMPLETIONS_MODEL = ""
+TEXT = ""
+openai.api_key = ""
+openai.api_base = ""
+openai.api_version = ""
 
 
 # 获取指定csv列数据
-df = pd.read_csv("http://42.192.210.8:8080//photo//bzacpxx.csv")
+df = pd.read_csv("")
 
 df_bills = df[['Product', 'KeyMessage', 'TextCategory', 'Doc_Name', 'Doc_Link']]
 
