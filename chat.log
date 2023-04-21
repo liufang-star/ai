@@ -1,0 +1,191 @@
+2023-04-19 16:51:43 - [INFO] main.py$init_database:418	[]
+2023-04-19 16:51:46 - [ERROR] __init__.py$set_database:19	Êı¾İ¿âÁ¬½ÓĞÅÏ¢:[]
+2023-04-19 16:51:46 - [INFO] _internal.py$_log:224	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8383
+ * Running on http://26.26.26.1:8383
+2023-04-19 16:51:46 - [INFO] _internal.py$_log:224	[33mPress CTRL+C to quit[0m
+2023-04-19 16:51:49 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:51:49] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:51:54 - [INFO] main.py$chat:273	id:b349add0-dc51-4403-b411-985002cf5b4e
+prompt:¹ş¹ş¹ş
+2023-04-19 16:52:15 - [INFO] main.py$callback:286	¹ş¹ş¹ş£¬ºÜ¸ßĞË¼ûµ½Äã£¡
+2023-04-19 16:52:19 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:52:19] "GET /chat/b349add0-dc51-4403-b411-985002cf5b4e?prompt=¹ş¹ş¹ş HTTP/1.1" 200 -
+2023-04-19 16:52:19 - [INFO] main.py$chat_title:215	id:b349add0-dc51-4403-b411-985002cf5b4e
+2023-04-19 16:53:04 - [INFO] main.py$callback:221	¹ş¹ş¹ş£¬Ğ¦Ò»Ğ¦£¬ĞÄÇéÊæ³©£¡
+2023-04-19 16:53:09 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:53:09] "GET /chat/title/b349add0-dc51-4403-b411-985002cf5b4e HTTP/1.1" 200 -
+2023-04-19 16:53:22 - [INFO] main.py$chat:273	id:b349add0-dc51-4403-b411-985002cf5b4e
+prompt:Äã»áÉ¶£¿
+2023-04-19 16:53:35 - [INFO] main.py$callback:286	ÎÒ»á±à³Ì¡¢Ğ´ÎÄÕÂ¡¢Ñİ½²¡¢×öÑİÊ¾¡¢ÅÄÕÕ¡¢×öPPT¡¢Éè¼ÆÍ¼±ê¡¢°²×°Èí¼ş¡¢Éè¼ÆÍøÒ³¡¢ÍøÕ¾Î¬»¤¡¢SEOÓÅ»¯¡¢Éç½»Ã½ÌåÓªÏú¡¢Êı¾İ·ÖÎö¡¢Éè¼Æº£±¨¡¢×«Ğ´±¨¸æ¡¢Ìá¹©×ÉÑ¯·şÎñµÈ¡£
+2023-04-19 16:53:35 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:53:35] "GET /chat/b349add0-dc51-4403-b411-985002cf5b4e?prompt=Äã»áÉ¶£¿ HTTP/1.1" 200 -
+2023-04-19 16:53:39 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:53:39] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:53:46 - [INFO] main.py$chat:273	id:45e0e1db-fada-4aa3-b183-c3c3f36711d7
+prompt:Ê²Ã´ÊÇsql£¿
+2023-04-19 16:53:56 - [INFO] main.py$callback:286	SQL£¨Structured Query Language£©ÊÇÒ»ÖÖÓÃÓÚ·ÃÎÊºÍ²Ù×İÊı¾İ¿âµÄ±ê×¼ÓïÑÔ¡£Ëü¿ÉÓÃÓÚ¼ìË÷¡¢²åÈë¡¢¸üĞÂºÍÉ¾³ıÊı¾İ¿âÖĞµÄÊı¾İ¡£SQL¿ÉÒÔ°ïÖúÓÃ»§Éè¼ÆºÍÎ¬»¤Êı¾İ¿â£¬²¢ÇÒ¿ÉÒÔ°ïÖúÓÃ»§¶¨ÒåºÍ¿ØÖÆ·ÃÎÊÊı¾İ¿âµÄÈ¨ÏŞ¡£
+2023-04-19 16:53:56 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:53:56] "GET /chat/45e0e1db-fada-4aa3-b183-c3c3f36711d7?prompt=Ê²Ã´ÊÇsql£¿ HTTP/1.1" 200 -
+2023-04-19 16:53:56 - [INFO] main.py$chat_title:215	id:45e0e1db-fada-4aa3-b183-c3c3f36711d7
+2023-04-19 16:54:01 - [INFO] main.py$callback:221	SQL£¨Structured Query Language£©ÊÇÒ»ÖÖÓÃÓÚ·ÃÎÊºÍ´¦ÀíÊı¾İ¿âµÄ±ê×¼»¯ÓïÑÔ¡£Ëü¿ÉÒÔÓÃÓÚ²éÑ¯¡¢¸üĞÂ¡¢²åÈëºÍÉ¾³ıÊı¾İ¿âÖĞµÄÊı¾İ¡£SQLÊÇÒ»ÖÖ·Ç³£Ç¿´óµÄÓïÑÔ£¬¿ÉÒÔ¹¹½¨·Ç³£¸´ÔÓµÄÊı¾İ¿âÓ¦ÓÃ³ÌĞò¡£
+2023-04-19 16:54:01 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:54:01] "GET /chat/title/45e0e1db-fada-4aa3-b183-c3c3f36711d7 HTTP/1.1" 200 -
+2023-04-19 16:54:19 - [INFO] main.py$conv:198	id:b349add0-dc51-4403-b411-985002cf5b4e
+2023-04-19 16:54:19 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:54:19] "GET /conv/b349add0-dc51-4403-b411-985002cf5b4e HTTP/1.1" 200 -
+2023-04-19 16:54:20 - [INFO] main.py$chat_repeat:243	id:b349add0-dc51-4403-b411-985002cf5b4e
+2023-04-19 16:54:27 - [INFO] main.py$callback:249	ÎÒ»á±à³Ì£¬ÍøÒ³Éè¼Æ£¬Ğ´×÷£¬ÉãÓ°£¬Êı¾İ·ÖÎö£¬ÊÓÆµ¼ô¼­£¬Éç½»Ã½ÌåÓªÏú£¬ÍøÂç°²È«£¬ÒÆ¶¯¿ª·¢£¬»úÆ÷Ñ§Ï°£¬ÍøÂç¹ÜÀíµÈµÈ¡£
+2023-04-19 16:54:27 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:54:27] "GET /chat/repeat/b349add0-dc51-4403-b411-985002cf5b4e HTTP/1.1" 200 -
+2023-04-19 16:54:44 - [INFO] main.py$conv:198	id:45e0e1db-fada-4aa3-b183-c3c3f36711d7
+2023-04-19 16:54:44 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:54:44] "GET /conv/45e0e1db-fada-4aa3-b183-c3c3f36711d7 HTTP/1.1" 200 -
+2023-04-19 16:55:18 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:55:18] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:55:24 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:55:24] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:55:38 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:55:38] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:56:48 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:56:48] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:57:49 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:57:49] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:58:17 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:58:17] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 16:58:40 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 16:58:40] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:01:37 - [INFO] main.py$chat:273	id:09fd3fbc-061c-49ae-94bb-b02b06892bb7
+prompt:Explain quantum computing in simple terms
+2023-04-19 17:01:47 - [INFO] main.py$callback:286	Quantum computing is a form of computing that uses the properties of quantum mechanics, such as superposition and entanglement, to perform calculations. Quantum computers use qubits, which are quantum bits, instead of traditional bits to store and process information. This allows them to process information much faster than traditional computers, and to solve problems that traditional computers cannot.
+2023-04-19 17:01:47 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:01:47] "GET /chat/09fd3fbc-061c-49ae-94bb-b02b06892bb7?prompt=Explain%20quantum%20computing%20in%20simple%20terms HTTP/1.1" 200 -
+2023-04-19 17:01:47 - [INFO] main.py$chat_title:215	id:09fd3fbc-061c-49ae-94bb-b02b06892bb7
+2023-04-19 17:01:54 - [INFO] main.py$callback:221	Quantum computing is a type of computing that uses the properties of quantum mechanics to store and process information. Unlike traditional computers, which use bits that can only take the values 0 or 1, quantum computers use quantum bits, or qubits, which can take the values 0 and 1 at the same time. This allows quantum computers to process and store much more information than traditional computers, and to solve complex problems much faster.
+2023-04-19 17:01:54 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:01:54] "GET /chat/title/09fd3fbc-061c-49ae-94bb-b02b06892bb7 HTTP/1.1" 200 -
+2023-04-19 17:02:39 - [INFO] main.py$conv:198	id:09fd3fbc-061c-49ae-94bb-b02b06892bb7
+2023-04-19 17:02:39 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:02:39] "GET /conv/09fd3fbc-061c-49ae-94bb-b02b06892bb7 HTTP/1.1" 200 -
+2023-04-19 17:02:42 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:02:42] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:04:39 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:04:39] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:05:58 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:05:58] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:07:11 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:07:11] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:09:41 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:09:41] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:10:52 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:10:52] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:15:26 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:15:26] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:15:32 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:15:32] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:17:14 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:17:14] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:17:19 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:17:19] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:17:33 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:17:33] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:19:09 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:19:09] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:19:15 - [INFO] main.py$chat:273	id:b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43
+prompt:°Ù¼ÃÉñÖİÓĞÄÄĞ©²úÆ·
+2023-04-19 17:19:21 - [INFO] main.py$callback:286	°Ù¼ÃÉñÖİÓĞ°ÙÔÃÔó£¨BGB-3111£©£¬°ÙÔó°²£¨BGB-A317£©ºÍ°Ù»ãÔó£¨BGB-290£©Èı¿î²úÆ·»ñÅúÉÏÊĞ£¬»¹ÓĞBGB-283£¬BGB-A333£¬BGB-A425£¬BGB-A1217£¬BGB-A445£¬BGB-11417£¬BGB-10188ºÍBGB-15025°Ë¿î²úÆ·´¦ÓÚÁÙ´²½×¶Î¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:19:21 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:19:21] "GET /chat/b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43?prompt=°Ù¼ÃÉñÖİÓĞÄÄĞ©²úÆ· HTTP/1.1" 200 -
+2023-04-19 17:19:21 - [INFO] main.py$chat_title:215	id:b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43
+2023-04-19 17:19:24 - [INFO] main.py$chat_repeat:243	id:b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43
+2023-04-19 17:19:27 - [INFO] main.py$callback:221	°Ù¼ÃÉñÖİÓĞ°ÙÔÃÔó£¨BGB-3111£©£¬°ÙÔó°²£¨BGB-A317£©ºÍ°Ù»ãÔó£¨BGB-290£©Èı¿î²úÆ·»ñÅúÉÏÊĞ£¬»¹ÓĞBGB-283£¬BGB-A333£¬BGB-A425£¬BGB-A1217£¬BGB-A445£¬BGB-11417£¬BGB-10188ºÍBGB-15025°Ë¿î²úÆ·´¦ÓÚÁÙ´²½×¶Î¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:19:27 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:19:27] "GET /chat/title/b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43 HTTP/1.1" 200 -
+2023-04-19 17:19:30 - [INFO] main.py$callback:249	°Ù¼ÃÉñÖİÓĞ°ÙÔÃÔó£¨BGB-3111£©£¬°ÙÔó°²£¨BGB-A317£©ºÍ°Ù»ãÔó£¨BGB-290£©Èı¿î²úÆ·»ñÅúÉÏÊĞ£¬»¹ÓĞBGB-283£¬BGB-A333£¬BGB-A425£¬BGB-A1217£¬BGB-A445£¬BGB-11417£¬BGB-10188ºÍBGB-15025°Ë¿î²úÆ·´¦ÓÚÁÙ´²½×¶Î¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:19:30 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:19:30] "GET /chat/repeat/b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43 HTTP/1.1" 200 -
+2023-04-19 17:20:30 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:20:30] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:20:41 - [INFO] main.py$chat:273	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+prompt:Äã»áÉ¶£¿
+2023-04-19 17:20:44 - [INFO] main.py$stop_chat:188	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:20:44 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:20:44] "PUT /stop/chat/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:20:45 - [INFO] main.py$chat_title:215	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:20:46 - [INFO] main.py$chat_repeat:243	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:20:50 - [INFO] main.py$callback:286	ÎÒ»á±à³Ì£¬ÉÃ³¤Ê¹ÓÃC/C++£¬Java£¬Python£¬PHP£¬HTML£¬CSS£¬JavaScript£¬MySQL£¬SQL Server£¬OracleµÈÓïÑÔºÍ¼¼Êõ¿ª·¢WebÓ¦ÓÃ³ÌĞò£¬×ÀÃæÓ¦ÓÃ³ÌĞò£¬ÒÆ¶¯Ó¦ÓÃ³ÌĞò£¬Êı¾İ¿âÏµÍ³µÈ¡£´ËÍâ£¬ÎÒ»¹ÊìÏ¤Linux²Ù×÷ÏµÍ³£¬ÍøÂç±à³Ì£¬Ëã·¨Éè¼Æ£¬»úÆ÷Ñ§Ï°£¬×ÔÈ»ÓïÑÔ´¦Àí£¬Í¼Ïñ´¦Àí£¬Êı¾İÍÚ¾òµÈÁìÓò¡£
+2023-04-19 17:20:50 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:20:50] "GET /chat/f9c9f60e-13c6-4bd6-9534-925d90530031?prompt=Äã»áÉ¶£¿ HTTP/1.1" 200 -
+2023-04-19 17:20:51 - [INFO] main.py$chat_title:215	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:20:51 - [INFO] main.py$callback:221	ÎÒ»áĞ´³ÌĞò£¬ÉÃ³¤±à³ÌÓïÑÔ£¬±ÈÈçC¡¢C++¡¢Java¡¢Python¡¢PHPµÈ£¬»¹¶®Ò»Ğ©webÇ°¶Ë¿ª·¢¼¼Êõ£¬±ÈÈçHTML¡¢CSS¡¢JavaScriptµÈ£¬»¹»áÒ»Ğ©Êı¾İ¿â¼¼Êõ£¬±ÈÈçMySQL¡¢OracleµÈ£¬»¹»áÒ»Ğ©»úÆ÷Ñ§Ï°ºÍÈË¹¤ÖÇÄÜ¼¼Êõ£¬±ÈÈçTensorFlow¡¢PyTorchµÈ¡£
+2023-04-19 17:20:51 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:20:51] "GET /chat/title/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:20:52 - [INFO] main.py$callback:249	ÎÒ»áĞ´´úÂë£¬×öÍøÕ¾¿ª·¢£¬×öÍøÒ³Éè¼Æ£¬ÍøÂç¼¼Êõ£¬ÍøÂç°²È«£¬¼ÆËã»úÍ¼ĞÎÑ§£¬AI¼¼Êõ£¬Êı¾İ¿â¼¼Êõ£¬ÒÆ¶¯¿ª·¢£¬ÓÎÏ·¿ª·¢£¬»úÆ÷Ñ§Ï°£¬ÔÆ¼ÆËã£¬´óÊı¾İ·ÖÎö£¬»úÆ÷ÈË¼¼Êõ£¬ĞéÄâÏÖÊµ¼¼Êõ£¬¼ÆËã»úÊÓ¾õµÈ¡£
+2023-04-19 17:20:52 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:20:52] "[35m[1mGET /chat/repeat/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1[0m" 500 -
+2023-04-19 17:20:52 - [ERROR] _internal.py$_log:224	Error on request:
+Traceback (most recent call last):
+  File "D:\py\myvnev\py\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "D:\py\myvnev\py\lib\site-packages\werkzeug\serving.py", line 322, in execute
+    for data in application_iter:
+  File "D:\py\myvnev\py\lib\site-packages\werkzeug\wsgi.py", line 500, in __next__
+    return self._next()
+  File "D:\py\myvnev\py\lib\site-packages\werkzeug\wrappers\response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "D:/Python_Code Block/37304_PythonÊı¾İ·ÖÎöÓëÓ¦ÓÃ_Ô´´úÂëºÍÊµÑéÊı¾İ/PythonÊı¾İ·ÖÎöÓëÓ¦ÓÃ/python-object/openai/openai/Samples/Tutorials/Embeddings/python-web/chatai-python-master/main.py", line 335, in generate_chat
+    func(ai_text)
+  File "D:/Python_Code Block/37304_PythonÊı¾İ·ÖÎöÓëÓ¦ÓÃ_Ô´´úÂëºÍÊµÑéÊı¾İ/PythonÊı¾İ·ÖÎöÓëÓ¦ÓÃ/python-object/openai/openai/Samples/Tutorials/Embeddings/python-web/chatai-python-master/main.py", line 250, in callback
+    conversation["convs"][-1]["speeches"].append(ai_text)
+KeyError: 'speeches'
+2023-04-19 17:20:55 - [INFO] main.py$callback:221	ÎÒ»á±à³Ì¡¢Ğ´ÎÄÕÂ¡¢»­»­¡¢ÅÄÕÕ¡¢¼ô¼­ÊÓÆµ¡¢³ª¸è¡¢ÌøÎè¡¢ÓÎÓ¾¡¢Æ¹ÅÒÇò¡¢ÀºÇò¡¢ÍøÇò¡¢Åëâ¿¡¢×°ÊÎ¡¢×öÊÖ¹¤ÒÕÆ·µÈ¡£
+2023-04-19 17:20:55 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:20:55] "GET /chat/title/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:20:58 - [INFO] main.py$conv:198	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:20:58 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:20:58] "GET /conv/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:21:00 - [INFO] main.py$conv:198	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:21:00 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:00] "GET /conv/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:21:01 - [INFO] main.py$conv:198	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:21:01 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:01] "GET /conv/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:21:03 - [INFO] main.py$conv:198	id:b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43
+2023-04-19 17:21:03 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:03] "GET /conv/b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43 HTTP/1.1" 200 -
+2023-04-19 17:21:03 - [INFO] main.py$conv:198	id:b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43
+2023-04-19 17:21:03 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:03] "GET /conv/b75d1305-8b8c-45bd-a0f8-c8cf0e0b2d43 HTTP/1.1" 200 -
+2023-04-19 17:21:23 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:23] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:21:25 - [INFO] main.py$conv:198	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:21:25 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:25] "GET /conv/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:21:25 - [INFO] main.py$conv:198	id:f9c9f60e-13c6-4bd6-9534-925d90530031
+2023-04-19 17:21:25 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:25] "GET /conv/f9c9f60e-13c6-4bd6-9534-925d90530031 HTTP/1.1" 200 -
+2023-04-19 17:21:35 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:21:35] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:24:58 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:24:58] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:26:11 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:26:11] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:26:38 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:26:38] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:26:59 - [INFO] main.py$chat:273	id:4da2d5e3-011b-4d86-86cb-c0ab6edd45cb
+prompt:·ÎÁÛ°©ÍíÆÚÈçºÎÖÎÁÆ
+2023-04-19 17:27:05 - [INFO] main.py$callback:286	Ê¹ÓÃ°ÙÔó°²ÁªºÏ»¯ÁÆ¿ÉÒÔ´ïµ½21.6¸öÔÂµÄÖĞÎ»OS£¬²¢ÇÒ¿ÉÒÔ½µµÍ»¼ÕßµÄËÀÍö·çÏÕ£¬Í¨¹ı½ÃÕı£¬»¯ÁÆ×éµÄÖĞÎ»OS¿ÉÒÔÌáÉıµ½14.9¸öÔÂ¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:27:05 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:05] "GET /chat/4da2d5e3-011b-4d86-86cb-c0ab6edd45cb?prompt=·ÎÁÛ°©ÍíÆÚÈçºÎÖÎÁÆ HTTP/1.1" 200 -
+2023-04-19 17:27:05 - [INFO] main.py$chat_title:215	id:4da2d5e3-011b-4d86-86cb-c0ab6edd45cb
+2023-04-19 17:27:09 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:09] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:27:10 - [INFO] main.py$callback:221	Ê¹ÓÃ°ÙÔó°²ÁªºÏ»¯ÁÆ¿ÉÒÔ´ïµ½21.6¸öÔÂµÄÖĞÎ»OS£¬²¢ÇÒ¿ÉÒÔ½µµÍ»¼ÕßµÄËÀÍö·çÏÕ£¬Í¨¹ı½ÃÕı£¬»¯ÁÆ×éµÄÖĞÎ»OS¿ÉÒÔÌáÉıµ½14.9¸öÔÂ¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:27:10 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:10] "GET /chat/title/4da2d5e3-011b-4d86-86cb-c0ab6edd45cb HTTP/1.1" 200 -
+2023-04-19 17:27:12 - [INFO] main.py$conv:198	id:4da2d5e3-011b-4d86-86cb-c0ab6edd45cb
+2023-04-19 17:27:12 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:12] "GET /conv/4da2d5e3-011b-4d86-86cb-c0ab6edd45cb HTTP/1.1" 200 -
+2023-04-19 17:27:24 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:24] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:27:25 - [INFO] main.py$conv:198	id:4da2d5e3-011b-4d86-86cb-c0ab6edd45cb
+2023-04-19 17:27:25 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:25] "GET /conv/4da2d5e3-011b-4d86-86cb-c0ab6edd45cb HTTP/1.1" 200 -
+2023-04-19 17:27:26 - [INFO] main.py$conv:198	id:4da2d5e3-011b-4d86-86cb-c0ab6edd45cb
+2023-04-19 17:27:26 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:26] "GET /conv/4da2d5e3-011b-4d86-86cb-c0ab6edd45cb HTTP/1.1" 200 -
+2023-04-19 17:27:35 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:35] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:27:41 - [INFO] main.py$chat:273	id:b7ce794a-c363-4ef1-a4c6-d702fe513640
+prompt:·ÎÁÛ°©ÍíÆÚÈçºÎÖÎÁÆ
+2023-04-19 17:27:45 - [INFO] main.py$callback:286	Ê¹ÓÃ°ÙÔó°²ÁªºÏ»¯ÁÆ¿ÉÒÔ´ïµ½21.6¸öÔÂµÄÖĞÎ»OS£¬²¢ÇÒ¿ÉÒÔ½µµÍ»¼ÕßµÄËÀÍö·çÏÕ£¬Í¨¹ı½ÃÕı£¬»¯ÁÆ×éµÄÖĞÎ»OS¿ÉÒÔÌáÉıµ½14.9¸öÔÂ¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:27:45 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:45] "GET /chat/b7ce794a-c363-4ef1-a4c6-d702fe513640?prompt=·ÎÁÛ°©ÍíÆÚÈçºÎÖÎÁÆ HTTP/1.1" 200 -
+2023-04-19 17:27:46 - [INFO] main.py$chat_title:215	id:b7ce794a-c363-4ef1-a4c6-d702fe513640
+2023-04-19 17:27:51 - [INFO] main.py$callback:221	Ê¹ÓÃ°ÙÔó°²ÁªºÏ»¯ÁÆ¿ÉÒÔ´ïµ½21.6¸öÔÂµÄÖĞÎ»OS£¬²¢ÇÒ¿ÉÒÔ½µµÍ»¼ÕßµÄËÀÍö·çÏÕ£¬Í¨¹ı½ÃÕı£¬»¯ÁÆ×éµÄÖĞÎ»OS¿ÉÒÔÌáÉıµ½14.9¸öÔÂ¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:27:51 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:27:51] "GET /chat/title/b7ce794a-c363-4ef1-a4c6-d702fe513640 HTTP/1.1" 200 -
+2023-04-19 17:28:34 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:28:34] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:28:47 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:28:47] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:33:26 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:33:26] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:33:29 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:33:29] "POST /generate/id HTTP/1.1" 200 -
+2023-04-19 17:33:58 - [INFO] main.py$chat:273	id:01411c1f-9da6-46a6-86bf-be749e1e0094
+prompt:Äã»áÉ¶£¿
+2023-04-19 17:34:07 - [INFO] main.py$callback:286	ÎÒ»á±à³Ì£¬ÍøÒ³Éè¼Æ£¬Í¼Ïñ´¦Àí£¬Êı¾İ¿â¹ÜÀí£¬ÍøÂç°²È«£¬ÒÆ¶¯Ó¦ÓÃ¿ª·¢£¬»úÆ÷Ñ§Ï°£¬ÈË¹¤ÖÇÄÜ£¬×ÔÈ»ÓïÑÔ´¦ÀíµÈ¡£
+2023-04-19 17:34:07 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:34:07] "GET /chat/01411c1f-9da6-46a6-86bf-be749e1e0094?prompt=Äã»áÉ¶£¿ HTTP/1.1" 200 -
+2023-04-19 17:34:07 - [INFO] main.py$chat_title:215	id:01411c1f-9da6-46a6-86bf-be749e1e0094
+2023-04-19 17:34:16 - [INFO] main.py$callback:221	ÎÒ»á±à³Ì£¬ÊìÏ¤HTML¡¢CSS¡¢JavaScript¡¢PHP¡¢MySQLµÈ±à³ÌÓïÑÔ£¬»¹ÕÆÎÕÁËÒ»Ğ©Í¼Ïñ´¦Àí¡¢ÍøÂç±à³Ì¡¢ÒÆ¶¯Ó¦ÓÃ¿ª·¢µÈ¼¼Êõ¡£
+2023-04-19 17:34:16 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:34:16] "GET /chat/title/01411c1f-9da6-46a6-86bf-be749e1e0094 HTTP/1.1" 200 -
+2023-04-19 17:34:21 - [INFO] main.py$chat:273	id:01411c1f-9da6-46a6-86bf-be749e1e0094
+prompt:sqlÊÇÊ²Ã´£¿
+2023-04-19 17:34:26 - [INFO] main.py$callback:286	SQL£¨Structured Query Language£©ÊÇÒ»ÖÖÓÃÓÚ´æÈ¡ºÍ´¦ÀíÊı¾İ¿âµÄ±ê×¼»¯ÓïÑÔ¡£Ëü¿ÉÒÔÓÃÀ´²éÑ¯¡¢¸üĞÂºÍ¹ÜÀí¹ØÏµĞÍÊı¾İ¿âÏµÍ³£¬ÒÔ¼°´´½¨¡¢É¾³ı¡¢ĞŞ¸ÄºÍ¼ìË÷Êı¾İ¿âÖĞµÄÊı¾İ¡£
+2023-04-19 17:34:26 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:34:26] "GET /chat/01411c1f-9da6-46a6-86bf-be749e1e0094?prompt=sqlÊÇÊ²Ã´£¿ HTTP/1.1" 200 -
+2023-04-19 17:34:41 - [INFO] main.py$chat_repeat:243	id:01411c1f-9da6-46a6-86bf-be749e1e0094
+2023-04-19 17:34:45 - [INFO] main.py$callback:249	SQL£¨Structured Query Language£©ÊÇÒ»ÖÖÓÃÓÚ·ÃÎÊºÍ¹ÜÀíÊı¾İ¿âµÄ±ê×¼»¯ÓïÑÔ¡£ËüÊ¹ÓÃ½á¹¹»¯²éÑ¯Óï¾äÀ´¼ìË÷¡¢²åÈë¡¢¸üĞÂºÍÉ¾³ıÊı¾İ¿âÖĞµÄÊı¾İ¡£
+2023-04-19 17:34:45 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:34:45] "GET /chat/repeat/01411c1f-9da6-46a6-86bf-be749e1e0094 HTTP/1.1" 200 -
+2023-04-19 17:35:13 - [INFO] main.py$chat:273	id:01411c1f-9da6-46a6-86bf-be749e1e0094
+prompt:·ÎÁÛ°©ÍíÆÚÈçºÎÖÎÁÆ
+2023-04-19 17:35:18 - [INFO] main.py$callback:286	Ê¹ÓÃ°ÙÔó°²ÁªºÏ»¯ÁÆ¿ÉÒÔ´ïµ½21.6¸öÔÂµÄÖĞÎ»OS£¬²¢ÇÒ¿ÉÒÔ½µµÍ»¼ÕßµÄËÀÍö·çÏÕ£¬Í¨¹ı½ÃÕı£¬»¯ÁÆ×éµÄÖĞÎ»OS¿ÉÒÔÌáÉıµ½14.9¸öÔÂ¡£Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:35:18 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:35:18] "GET /chat/01411c1f-9da6-46a6-86bf-be749e1e0094?prompt=·ÎÁÛ°©ÍíÆÚÈçºÎÖÎÁÆ HTTP/1.1" 200 -
+2023-04-19 17:35:27 - [INFO] main.py$chat:273	id:01411c1f-9da6-46a6-86bf-be749e1e0094
+prompt:°ÙÔó°²Ò½±£¶¨¼Û
+2023-04-19 17:35:30 - [INFO] main.py$callback:286	1450Ôª/Ö§Çë²Î¿¼ÒÔÏÂÁ´½Ó£º<a href='https://commbi.beigene.cn/MailTest/downloads/AI_Doc/°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf'>°ÙÔó°² RATIONALE 304 Ö×Áö»º½âÌØÕ÷·ÖÎöÊı¾İ½â¶Á.pdf</a>
+2023-04-19 17:35:30 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:35:30] "GET /chat/01411c1f-9da6-46a6-86bf-be749e1e0094?prompt=°ÙÔó°²Ò½±£¶¨¼Û HTTP/1.1" 200 -
+2023-04-19 17:57:55 - [INFO] _internal.py$_log:224	127.0.0.1 - - [19/Apr/2023 17:57:55] "POST /generate/id HTTP/1.1" 200 -
+2023-04-20 17:40:47 - [INFO] main.py$init_database:419	[]
+2023-04-20 17:44:51 - [ERROR] __init__.py$set_database:19	Êı¾İ¿âÁ¬½ÓĞÅÏ¢:[]
+2023-04-20 17:44:51 - [INFO] _internal.py$_log:224	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8383
+ * Running on http://26.26.26.1:8383
+2023-04-20 17:44:51 - [INFO] _internal.py$_log:224	[33mPress CTRL+C to quit[0m
+2023-04-20 17:45:46 - [INFO] _internal.py$_log:224	127.0.0.1 - - [20/Apr/2023 17:45:46] "POST /generate/id HTTP/1.1" 200 -
+2023-04-20 17:45:51 - [INFO] main.py$chat:274	id:93ec6f81-a9f3-4165-858d-8df03c550d19
+prompt:¹ş¹ş¹ş
+2023-04-20 17:46:22 - [INFO] main.py$callback:287	¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş¹ş
+2023-04-20 17:46:26 - [INFO] _internal.py$_log:224	127.0.0.1 - - [20/Apr/2023 17:46:26] "GET /chat/93ec6f81-a9f3-4165-858d-8df03c550d19?prompt=¹ş¹ş¹ş HTTP/1.1" 200 -
+2023-04-20 17:46:26 - [INFO] main.py$chat_title:216	id:93ec6f81-a9f3-4165-858d-8df03c550d19
+2023-04-20 17:46:33 - [INFO] main.py$callback:222	¹ş¹ş¹ş£¬Ğ¦Ò»¸ö°É£¡
+2023-04-20 17:46:33 - [INFO] _internal.py$_log:224	127.0.0.1 - - [20/Apr/2023 17:46:33] "GET /chat/title/93ec6f81-a9f3-4165-858d-8df03c550d19 HTTP/1.1" 200 -
+2023-04-20 17:46:40 - [INFO] main.py$chat:274	id:93ec6f81-a9f3-4165-858d-8df03c550d19
+prompt:Äã»áÉ¶£¿
+2023-04-20 17:46:45 - [INFO] main.py$callback:287	ÎÒ»á¼ÆËã»ú³ÌĞòÉè¼Æ¡¢ÍøÒ³Éè¼Æ¡¢Êı¾İ¿â¹ÜÀí¡¢ÍøÂç¼¼Êõ¡¢ÒÆ¶¯Ó¦ÓÃ¿ª·¢¡¢ÓÎÏ·¿ª·¢¡¢Èí¼ş¿ª·¢¡¢Í¼Ïñ´¦Àí¡¢»úÆ÷Ñ§Ï°¡¢ÈË¹¤ÖÇÄÜµÈ¡£
+2023-04-20 17:46:45 - [INFO] _internal.py$_log:224	127.0.0.1 - - [20/Apr/2023 17:46:45] "GET /chat/93ec6f81-a9f3-4165-858d-8df03c550d19?prompt=Äã»áÉ¶£¿ HTTP/1.1" 200 -
