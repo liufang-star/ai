@@ -69,7 +69,10 @@ mongodb可以参照[Linux系统下安装MongoDB](https://blog.csdn.net/DecadentF
 #### 注：csv文件主要是针对我个人业务，csv文件必须包含这五个字段
 `'Product', 'KeyMessage', 'TextCategory', 'Doc_Name', 'Doc_Link'`
 
-####
+###
+前端项目地址[chat-vue](https://github.com/liufang-star/ai-web)
+
+###
 ### 赞助
 如果此项目对你确实有帮助，欢迎给我打赏一杯咖啡～😄
 ![img.png](img.png)
