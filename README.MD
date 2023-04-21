@@ -16,6 +16,8 @@
 | 数据库     | 版本     |
 |---------|--------|
 | mongodb | 5.0.16 |
+
+####
 [mongodb官网](https://www.mongodb.com/try/download/community)
 ####
 mongodb可以参照[Linux系统下安装MongoDB](https://blog.csdn.net/DecadentF/article/details/119536858?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168196341016800182118768%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168196341016800182118768&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-4-119536858-null-null.142^v85^insert_down1,239^v2^insert_chatgpt&utm_term=linux%E5%AE%89%E8%A3%85mongodb&spm=1018.2226.3001.4187)
@@ -25,6 +27,8 @@ mongodb可以参照[Linux系统下安装MongoDB](https://blog.csdn.net/DecadentF
 | 编译环境   | 版本     |
 |--------|--------|
 | python | 3.10.8 |
+
+####
 [python官网](https://www.python.org/downloads/)
 
 ### 安装python所需依赖库
@@ -66,6 +70,6 @@ mongodb可以参照[Linux系统下安装MongoDB](https://blog.csdn.net/DecadentF
 `'Product', 'KeyMessage', 'TextCategory', 'Doc_Name', 'Doc_Link'`
 
 ####
-###赞助
+### 赞助
 如果此项目对你确实有帮助，欢迎给我打赏一杯咖啡～😄
 ![img.png](img.png)
