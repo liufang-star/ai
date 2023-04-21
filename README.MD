@@ -1,6 +1,6 @@
 # Python Flask AI
 
->本项目使用了`python flask openai`实现，数据保存在`mongo`中，`davinci`模型，购买的`openai`账号，建立自己的文本模型。
+>本项目使用了`python flask openai`实现，数据保存在`mongo`中，`davinci`模型，购买的`openai`账号，建立自己的文本模型；如果想使用自己注册的openai的账号，使用自己的api-key，可以clone后端分支项目，在gpt-3.5-turbo中。
 ####
 ## 部署
 ##### linux部署 CentOS7.5以上版本
