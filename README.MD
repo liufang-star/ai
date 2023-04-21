@@ -1,11 +1,11 @@
-使用python flask openai实现，数据保存在mongo中 本项目toGPT3.5分支，已经切换到最新的gpt-3.5-turbo模型。
+使用python flask openai实现，数据保存在mongo中,模型gpt-3.5-turbo。
 
 #### 部署：
 
 ##### docker部署
 ```
 # clone项目
-git clone https://gitee.com/MIEAPP/chatai-python.git
+git clone https://github.com/liufang-star/ai.git
 # 进入文件夹
 cd chatai-python
 # 修改Dockerfile文件
