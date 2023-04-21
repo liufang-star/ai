@@ -16,7 +16,7 @@ class database(object):
 
     # 初始化数据库，如果数据库设置了账号密码请使用上面这段代码
     def __init__(self):
-        self.host = "124.221.189.58"
+        self.host = "YOUR_HOST_IP"
         self.port = "27017"
         self.databaseName = "admin"
         self.companyId = None

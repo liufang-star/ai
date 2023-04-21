@@ -25,17 +25,16 @@ from util.Result import err, log, ok
 app = Flask(__name__)
 
 load_dotenv()
-# openai.api_key = os.getenv("OPENAI_API_KEY")
-# openai.api_key = "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"
-COMPLETIONS_MODEL = ""
-TEXT = ""
-openai.api_key = ""
-openai.api_base = ""
-openai.api_version = ""
+COMPLETIONS_MODEL = "YOUR_MODEL"
+TEXT = "MODEL"
+openai.api_type = "YOUR_API_TYPE"
+openai.api_key = "YOUR_API_KEY"
+openai.api_base = "YOUR_API_BASE"
+openai.api_version = "2022-12-01"
 
 
 # 获取指定csv列数据
-df = pd.read_csv("")
+df = pd.read_csv("YOUR_CSV")
 
 df_bills = df[['Product', 'KeyMessage', 'TextCategory', 'Doc_Name', 'Doc_Link']]
 

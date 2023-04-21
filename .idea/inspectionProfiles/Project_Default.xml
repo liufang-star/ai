@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="flask.wrappers.Response.__add__" />
+          <option value="str.append" />
+          <option value="pcCsvChat.app.chosen_sections" />
+          <option value="pcCsvChat.app.doc_name" />
+          <option value="pcCsvChat.app.doc_link" />
+          <option value="dotenv.load_dotenv" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
