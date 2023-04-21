@@ -70,7 +70,7 @@ mongodb可以参照[Linux系统下安装MongoDB](https://blog.csdn.net/DecadentF
 `'Product', 'KeyMessage', 'TextCategory', 'Doc_Name', 'Doc_Link'`
 
 ###
-前端项目地址[chat-vue](https://github.com/liufang-star/ai-web)
+前端项目地址[[chat-vue](https://github.com/liufang-star/ai-web)]
 
 ###
 ### 赞助
